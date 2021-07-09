@@ -1,0 +1,2 @@
+# drug-activity-sklearn
+The aim of this assignment was to predict the biological activity or toxicity of a drug or a molecule purely based on its chemical structure. A dataset of molecules in SMILES format was given, together with activities of these molecules related to 11 different applications, and the goal was to train a machine learning model to predict the activities of new molecules based on the selected model.
